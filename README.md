@@ -120,6 +120,8 @@ https://www.reddit.com/r/Python/comments/pu55xb/python_is_actually_just_haskell_
 
 ### PL / Compilers
 
+[M/o/Vfuscator](https://github.com/xoreaxeaxeax/movfuscator): compiles programs into "mov" instructions, and only "mov" instructions. Arithmetic, comparisons, jumps, function calls, and everything else a program needs are all performed through mov operations; there is no self-modifying code, no transport-triggered calculation, and no other form of non-mov cheating.
+
 [ungrammar](https://github.com/rust-analyzer/ungrammar): A DLS for specifying concrete syntax tree
 
 [riscv-isa-sim](https://github.com/riscv/riscv-isa-sim): Spike, a RISC-V ISA Simulator. Very nice codebase.
